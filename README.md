@@ -1,4 +1,4 @@
-Docker & Anvil
+# Docker & Anvil
 
 Need free testnet?
 anvil
@@ -11,7 +11,7 @@ anvil + railway
 
 Steps
 1. Fork https://github.com/hananbeer/docker-anvil
-2. Go to http://railway.app
-3. Deploy your forked docker-anvil
-4. Click on "Settings" -> "Domains" -> "Generate Domain"
-5. you done
+2. Deploy to http://railway.app (it's free!)
+3. Go to "Settings" -> "Domains" -> "Generate Domain"
+
+you done
