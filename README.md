@@ -13,5 +13,6 @@ Steps
 1. Fork https://github.com/hananbeer/docker-anvil
 2. Deploy to http://railway.app (it's free!)
 3. Go to "Settings" -> "Domains" -> "Generate Domain"
+4. Go to variables -> add all (or set PORT=8545)
 
 you done
